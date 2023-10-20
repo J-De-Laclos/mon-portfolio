@@ -1,10 +1,10 @@
-# Astro Starter Kit: Portfolio
+# Portfolio
 
 ```sh
 npm create astro@latest -- --template portfolio
 ```
 
-(`/assets/presentation.png``)
+<img width="959" alt="présentation" src="https://github.com/J-De-Laclos/mon-portfolio/assets/127285542/e4c6414c-8d37-43e5-8220-26c6e03cb0f2">
 
 ## 🧞 Commands
 
