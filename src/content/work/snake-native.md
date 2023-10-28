@@ -1,7 +1,7 @@
 ---
 title: Snake Game React Native
 publishDate: 2023-10-26 00:00:00
-img: /assets/snake-capt02.png
+img: /assets/snake-visuel.png
 img_alt: Capture d'écran du jeu de Snake en React Native.
 description: |
   Snake Game React Native est une application ludique recréant le jeu classique du serpent. Développée avec React Native et Expo, cette application offre une expérience de jeu divertissante, où les joueurs contrôlent un serpent pour collecter des points sans heurter les obstacles.
@@ -21,6 +21,8 @@ tags:
 ![Capture d'écran du jeu](/assets/snake-capt01.png)
 
 ![Capture d'écran du jeu](/assets/snake-capt02.png)
+
+![Capture d'écran du jeu](/assets/snake-score.png)
 
 [**Lien vers Snake Game React Native**](https://github.com/J-De-Laclos/Snake-game-ReactNative)
 
