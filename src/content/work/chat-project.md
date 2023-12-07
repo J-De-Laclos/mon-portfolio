@@ -31,6 +31,12 @@ tags:
 
 Le code source est accessible sur [GitHub](https://github.com/J-De-Laclos/chat-frontend-project).
 
+## 📸 Capture d'écran
+
+![Capture d'écran de Chat-Project](/assets/chat-accueil.png)
+
+![Capture d'écran de Chat-Project](/assets/chat-liste.png)
+
 ---
 
 "Chat-Project représente un projet FullStack qui allie simplicité et exhaustivité. Cette application offre une expérience complète en permettant aux utilisateurs de se connecter, de créer des comptes, et d'explorer une gamme de fonctionnalités de discussion en temps réel. Du côté frontend, l'interface utilisateur est conçue de manière intuitive avec des pages dédiées à la connexion, à l'inscription, à la création de nouveaux salons, ainsi qu'à la participation à des salons existants. Le backend, quant à lui, exploite Node.js, Express.js et MongoDB pour assurer une gestion robuste des utilisateurs, des salons, et des messages.
